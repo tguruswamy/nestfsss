@@ -28,7 +28,7 @@ Add the top-level directory to your MATLAB pathdef. Most recently tested with MA
   * contains material parameters as well as the arrays representing energy, quasiparticle distribution, and phonon distribution
   * preconfigured materials are available: `Sc_Aluminum`, `Sc_Niobium`, etc.
 * Instantiate a `ThinFilm` object around the `Superconductor`
-  * contains parameters defining signal (pair-breaking photons), probe (microwave/readout photons), and phonon injection
+  * contains parameters defining signal (above-gap pair-breaking photons), probe (sub-gap microwave/readout photons), and phonon injection
 * Instantiate an Iterator object around the ThinFilm
   * contains parameters related to the solution convergence, number of iterations, etc.
 * Run methods of the Iterator object to solve for the steady-state solution given the parameters set.
