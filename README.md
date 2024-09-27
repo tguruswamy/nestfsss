@@ -12,10 +12,11 @@ Full theoretical details and derivations are available in (PhD thesis):
 Guruswamy, T. (2018) "Nonequilibrium behaviour and quasiparticle heating in thin film superconducting microwave resonators". [doi:10.17863/CAM.24510](https://doi.org/10.17863/CAM.24510).
 
 Other relevant references:  
-[1. Chang, J.-J. & Scalapino, D. J. Kinetic-equation approach to nonequilibrium superconductivity. Physical Review B 15, 2651–2670 (1977).](https://doi.org/10.1103/PhysRevB.15.2651)  
-[D J Goldie and S Withington 2013 Supercond. Sci. Technol. 26 015004](http://dx.doi.org/10.1088/0953-2048/26/1/015004)  
-[T Guruswamy et al 2014 Supercond. Sci. Technol. 27 055012](http://dx.doi.org/10.1088/0953-2048/27/5/055012)  
-[T Guruswamy et al 2015 Supercond. Sci. Technol. 28 054002](http://dx.doi.org/10.1088/0953-2048/28/5/054002)  
+[Chang, J.-J. & Scalapino, D. J. Kinetic-equation approach to nonequilibrium superconductivity. Physical Review B 15, 2651–2670 (1977)](https://doi.org/10.1103/PhysRevB.15.2651)  
+[Goldie, D. J. & Withington, S. Non-equilibrium superconductivity in quantum-sensing superconducting resonators. Superconductor Science and Technology 26, 015004 (2013)](http://dx.doi.org/10.1088/0953-2048/26/1/015004)  
+[Guruswamy, T., Goldie, D. J. & Withington, S. Quasiparticle generation efficiency in superconducting thin films. Superconductor Science and Technology 27, 055012 (2014)](http://dx.doi.org/10.1088/0953-2048/27/5/055012)  
+[Guruswamy, T., Goldie, D. J. & Withington, S. Nonequilibrium superconducting thin films with sub-gap and pair-breaking photon illumination. Superconductor Science and Technology 28, 054002 (2015)](http://dx.doi.org/10.1088/0953-2048/28/5/054002)
+[de Visser, P. J. et al. The non-equilibrium response of a superconductor to pair-breaking radiation measured over a broad frequency band. Applied Physics Letters 106, 252602 (2015)](https://doi.org/10.1063/1.4923097)
 
 ## Installation
 
